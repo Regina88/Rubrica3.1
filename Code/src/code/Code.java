@@ -36,9 +36,18 @@ public class Code {
         String multiplicar="3";
         String Dividir="4";
         String opcion="";
-   
         //COMENTARIO
         String nuevo="hola";
+        //Paso 2
+        
+        int Valor_1=0,Valor_2=0,Sumar=0;
+        System.out.println("***calculador basica**");
+        System.out.println("1_sumar              *");
+        System.out.println("2_restar             *");
+        System.out.println("3_multiplicar        *");
+        System.out.println("4_dividir            *");
+        System.out.println("***escoja la que le guste***");
+        System.out.println("****************************");
 
 }
     

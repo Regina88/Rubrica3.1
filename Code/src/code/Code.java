@@ -48,6 +48,16 @@ public class Code {
         System.out.println("4_dividir            *");
         System.out.println("***escoja la que le guste***");
         System.out.println("****************************");
+        
+        //paso 3
+        opcion=mientrada.nextLine();
+        if (opcion.equals(suma))
+            System.out.println("dele valor a la variable 1");
+            Valor_1=mientrada.nextInt();
+            System.out.println("ingrese valor variable 2 ");
+            Valor_2=mientrada.nextInt();
+            Sumar=Valor_1+Valor_2;
+
 
 }
     

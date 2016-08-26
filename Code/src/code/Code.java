@@ -38,6 +38,7 @@ public class Code {
         String opcion="";
    
         //COMENTARIO
+        String nuevo="hola";
 
 }
     

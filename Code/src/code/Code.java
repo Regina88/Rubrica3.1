@@ -18,7 +18,7 @@ public class Code {
         // TODO code application logic here
         System.out.println("Universidad Laica Eloy Alfaro de Manabí ==FACCI===");
         System.out.println("Hola Profesor este es un deber de Ingenieria del Software II");
-        System.out.println("Realizado por Regina Vera Rmairez ");
+        System.out.println("Realizado por Regina Vera Ramirez ");
     }
     
 }
